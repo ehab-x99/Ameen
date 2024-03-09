@@ -4,7 +4,7 @@
 - **رابط Figma:** يمكنك العثور على تصميم واجهة التطبيق على Figma عبر [هذا الرابط](https://www.figma.com/proto/jLQ9xrorIYC1qSlMXTVWfu?node-id=0:1).
   
 ## الفيديو التوضيحي
-- يمكنك مشاهدة الفيديو التوضيحي للتطبيق على YouTube عبر [هذا الرابط](https://drive.google.com/file/d/1KcMbpR5LwvMXTYNorG9MnboKX4XGxQ1w/view?usp=sharing).
+- يمكنك مشاهدة الفيديو التوضيحي للتطبيق على Google Drive عبر [هذا الرابط](https://drive.google.com/file/d/1KcMbpR5LwvMXTYNorG9MnboKX4XGxQ1w/view?usp=sharing).
 
 ## البدء في الدردشة
  يمكنك البدء في المحادثة مع أمين واستكشاف الميزات المتاحة  [هذا الرابط [هذا الرابط](https://drive.google.com/file/d/1KcMbpR5LwvMXTYNorG9MnboKX4XGxQ1w/view?usp=sharing).).
