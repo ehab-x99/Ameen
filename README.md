@@ -11,4 +11,4 @@
 ## التثبيت
 1. **استنساخ المستودع:** يتطلب تشغيل التطبيق استنساخ مستودع الكود من GitHub.
    ```bash
-   git clone https://github.com/your_username/chat-with-ameen.git
+   git clone https://github.com/Ehab-x99/chat-with-ameen.git
